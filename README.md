@@ -5,13 +5,13 @@ Welcome to the Movie Recommendation System! This project aims to provide persona
 The Movie Recommendation System is designed to provide personalized movie recommendations to users. It leverages various machine learning algorithms to analyze user preferences and suggest films that match their tastes. The system is implemented using content-based filtering  techniques.
 
 Table of Contents-   
-[Introduction](#introduction)  
-[Features](#features)  
-[Algorithms Used](#algorithmsused)  
-[Usage](#usage)  
-[License](#license)  
+[Introduction](#Introduction)  
+[Features](#Features)  
+[Algorithms Used](#AlgorithmsUsed)  
+[Usage](#Usage)  
+[License](#License)  
 
-Introduction
+Introduction  
 The Movie Recommendation System leverages user preferences and historical data to suggest movies that users are likely to enjoy. This system uses a combination of content-based filtering, collaborative filtering, and deep learning techniques to provide accurate and relevant recommendations.
 
 Features  
@@ -44,4 +44,4 @@ Film Studies: In educational settings, movie recommendation systems can help stu
 Content Creation: Studios and content creators can use insights from recommendation systems to understand audience preferences, helping them create content that is more likely to resonate with viewers.
 
 License  
-This project is licensed under the MIT License - see the [LICENSE](#LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](#LICENSE) file for details.
