@@ -9,7 +9,8 @@ Table of Contents-
 - [Features](#Features)  
 - [Algorithms Used](#Algorithms-Used)  
 - [Usage](#Usage)  
-- [License](#License)  
+- [License](#License)
+
 
 - Introduction  
 The Movie Recommendation System leverages user preferences and historical data to suggest movies that users are likely to enjoy. This system uses a combination of content-based filtering, collaborative filtering, and deep learning techniques to provide accurate and relevant recommendations.
