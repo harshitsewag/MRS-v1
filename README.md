@@ -4,24 +4,24 @@ Movie Recommendation System
 Welcome to the Movie Recommendation System! This project aims to provide personalized movie recommendations using various machine learning algorithms.
 The Movie Recommendation System is designed to provide personalized movie recommendations to users. It leverages various machine learning algorithms to analyze user preferences and suggest films that match their tastes. The system is implemented using content-based filtering  techniques.
 
-Table of Contents-
-[Introduction](#introduction)
-[Features](#features)
-[Algorithms Used](#algorithmsused)
-[Usage](#usage)
-[License](#license)
+Table of Contents-   
+[Introduction](#introduction)  
+[Features](#features)  
+[Algorithms Used](#algorithmsused)  
+[Usage](#usage)  
+[License](#license)  
 
 Introduction
 The Movie Recommendation System leverages user preferences and historical data to suggest movies that users are likely to enjoy. This system uses a combination of content-based filtering, collaborative filtering, and deep learning techniques to provide accurate and relevant recommendations.
 
-Features-
+Features  
 1. Content-based filtering using movie features
 2. Interactive user interface for ease of use
 
-Algorithms Used-
+Algorithms Used  
 Content-Based Filtering: Recommends movies similar to the ones a user has liked in the past by analyzing movie features such as genre, director, and cast.
 
-Usage-
+Usage  
 1. Streaming Platforms-
 Personalized Recommendations: Services like Netflix and Amazon Prime Video use recommendation systems to suggest movies and TV shows to users based on their viewing history and ratings. This helps users discover new content they are likely to enjoy, keeping them engaged and satisfied with the service.
 2. Online Movie Databases-
@@ -43,5 +43,5 @@ Film Studies: In educational settings, movie recommendation systems can help stu
 10. Entertainment Analytics-
 Content Creation: Studios and content creators can use insights from recommendation systems to understand audience preferences, helping them create content that is more likely to resonate with viewers.
 
-License-
+License  
 This project is licensed under the MIT License - see the [LICENSE](#LICENSE.md) file for details.
